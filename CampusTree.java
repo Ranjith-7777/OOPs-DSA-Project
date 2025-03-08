@@ -6,23 +6,28 @@ class CampusTree
     private TreeNode root;
     private List<TreeNode> buildings;
 
-    public CampusTree() {
+    public CampusTree()
+    {
         buildings = new ArrayList<>();
     }
 
-    public void setRoot(TreeNode root) {
+    public void setRoot(TreeNode root)
+    {
         this.root = root;
     }
 
-    public TreeNode getRoot() {
+    public TreeNode getRoot()
+    {
         return root;
     }
 
-    public void addBuilding(TreeNode building) {
+    public void addBuilding(TreeNode building)
+    {
         buildings.add(building);
     }
 
-    public List<TreeNode> getAllBuildings() {
+    public List<TreeNode> getAllBuildings()
+    {
         return buildings;
     }
 }

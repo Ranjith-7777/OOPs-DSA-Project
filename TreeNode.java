@@ -1,14 +1,16 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class TreeNode {
+class TreeNode
+{
     String name;
     double x, y;
     boolean hasElevator;
     boolean isAccessible;
     List<TreeNode> children;
 
-    public TreeNode(String name, double x, double y, boolean hasElevator, boolean isAccessible) {
+    public TreeNode(String name, double x, double y, boolean hasElevator, boolean isAccessible)
+    {
         this.name = name;
         this.x = x;
         this.y = y;
@@ -17,11 +19,13 @@ class TreeNode {
         this.children = new ArrayList<>();
     }
 
-    public void addChild(TreeNode child) {
+    public void addChild(TreeNode child)
+    {
         children.add(child);
     }
 
-    public String getName() {
+    public String getName()
+    {
         return name;
     }
 }
