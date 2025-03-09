@@ -46,10 +46,10 @@ Follow these steps to get the CNS up and running:
 3. **Interactive Map:** The visual interface allows you to explore campus layouts efficiently.
 
 ## Future Plans
-✅ **GPS Integration** — Real-time location updates.  
-✅ **AI-Based Route Optimization** — Intelligent path adjustments based on congestion.
-✅ Better web interface using **FLASK** and **REACT**
-✅ **Mobile App Development** — Future migration to **Flutter** for improved accessibility.  
+✅ **GPS Integration** — Real-time location updates.<br>
+✅ **AI-Based Route Optimization** — Intelligent path adjustments based on congestion.<br>
+✅ Better web interface using **FLASK** and **REACT**.<br>
+✅ **Mobile App Development** — Future migration to **Flutter** for improved accessibility.<br>
 
 ## Contributors
 - **Advaith Krishna (@ADKA2006)**
