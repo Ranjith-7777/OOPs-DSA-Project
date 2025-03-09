@@ -6,13 +6,13 @@ class InputModule
 
     public String getStartLocation()
     {
-        System.out.print("Enter Start Location: "); //Later this can be modified when the GPS module comes into the picture
+        System.out.println("Enter Start Location: "); //Later this can be modified when the GPS module comes into the picture
         return scanner.nextLine();
     }
 
     public String getEndLocation()
     {
-        System.out.print("Enter End Location: ");
+        System.out.println("Enter End Location: ");
         return scanner.nextLine();
     }
 }
