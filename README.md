@@ -53,7 +53,7 @@ Follow these steps to get the CNS up and running:
 
 ## Contributors
 - **Advaith Krishna (@ADKA2006)**
-- **Amudala Jashwanth (204)**
+- **Amudala Jashwanth (@Jashu1935)**
 - **Ranjith Raja B (@Ranjith-7777)**
 
 We look forward to enhancing campus navigation with this efficient and user-friendly solution. Feel free to contribute and share your feedback!
