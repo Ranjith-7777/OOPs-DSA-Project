@@ -51,10 +51,6 @@ Follow these steps to get the CNS up and running:
 ✅ Better web interface using **FLASK** and **REACT**.<br>
 ✅ **Mobile App Development** — Future migration to **Flutter** for improved accessibility.<br>
 
-## Contributors
-- **Advaith Krishna** (@ADKA2006)
-- **Amudala Jashwanth** (@Jashu1935)
-- **Ranjith Raja B** (@Ranjith-7777)
 
 We look forward to enhancing campus navigation with this efficient and user-friendly solution. Feel free to contribute and share your feedback!
 
