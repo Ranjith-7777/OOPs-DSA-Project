@@ -25,7 +25,7 @@ Follow these steps to get the CNS up and running:
    ```
  
 
-## Project Structure
+## 🗂️  Project Structure
 ```
 |-- backend
 |   |-- CampusTree.java        # Tree-based structure to manage campus layout
