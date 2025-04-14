@@ -1,6 +1,6 @@
 # Campus Navigation System
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### "Finding your way around a big campus can be tough, right? Well, here's our solution!"
@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ADKA2006"><img src="https://avatars.githubusercontent.com/u/174895346?v=4?s=100" width="100px;" alt="Advaith Krishna"/><br /><sub><b>Advaith Krishna</b></sub></a><br /><a href="https://github.com/Ranjith-7777/OOPs-DSA-Project/commits?author=ADKA2006" title="Code">💻</a> <a href="https://github.com/Ranjith-7777/OOPs-DSA-Project/commits?author=ADKA2006" title="Documentation">📖</a> <a href="#design-ADKA2006" title="Design">🎨</a> <a href="#ideas-ADKA2006" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Ranjith-7777/OOPs-DSA-Project/commits?author=ADKA2006" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jashu1935"><img src="https://avatars.githubusercontent.com/u/192393118?v=4?s=100" width="100px;" alt="Jashu1935"/><br /><sub><b>Jashu1935</b></sub></a><br /><a href="https://github.com/Ranjith-7777/OOPs-DSA-Project/commits?author=Jashu1935" title="Code">💻</a> <a href="https://github.com/Ranjith-7777/OOPs-DSA-Project/commits?author=Jashu1935" title="Documentation">📖</a> <a href="#design-Jashu1935" title="Design">🎨</a> <a href="#ideas-Jashu1935" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Ranjith-7777/OOPs-DSA-Project/commits?author=Jashu1935" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
