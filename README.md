@@ -51,6 +51,8 @@ Follow these steps to get the CNS up and running:
 ✅ Better web interface using **FLASK** and **REACT**.<br>
 ✅ **Mobile App Development** — Future migration to **Flutter** for improved accessibility.<br>
 
+## ⚖️ License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 We look forward to enhancing campus navigation with this efficient and user-friendly solution. Feel free to contribute and share your feedback!
 
