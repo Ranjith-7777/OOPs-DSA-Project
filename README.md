@@ -13,7 +13,7 @@ Our **Campus Navigation System (CNS)** is designed to simplify navigation in lar
 - **Graph-Based Modeling:** Buildings are nodes, and pathways are edges.
 - **Shortest Path Algorithm:** Utilizes **Dijkstra's Algorithm** for optimal route calculation.
 - **Dynamic Graph Updates:** Real-time addition or removal of buildings and pathways can be done by the admin.
-- **Interactive Web UI:** Developed using **HTML**, **CSS** and basic **JAVASCRIPT** for a seamless experience.
+- **Interactive UI:** Developed using **SWING** for a seamless experience.
 - **Future Enhancements:** Plans for GPS integration, AI-based route optimization, better web interface using **FLASK** and **REACT** and a mobile app using **Flutter**.
 
 ## 🛠️ Installation
@@ -26,21 +26,27 @@ Follow these steps to get the CNS up and running:
  
 
 ## 🗂️  Project Structure
+MVC design pattern has been followed while coding and is given as follows
 ```
-|-- backend
-|   |-- CampusTree.java        # Tree-based structure to manage campus layout
-|   |-- InputModule.java       # Handles user input processing
-|   |-- Main.java              # Main entry point for backend logic
-|   |-- MapAreaModule.java     # Manages different map areas
-|   |-- RouteFinder.java       # Logic to compute optimal routes
-|   |-- SearchPanel.java       # UI panel for search functionality
-|   |-- TreeNode.java          # Data structure for tree nodes
-|
-|-- frontend
-|   |-- index.html            # Main UI interface
-|   |-- style.css             # Styling for the web UI
-|   |-- script.js             # JavaScript logic for UI handling
-|
+|-- CampusNavigation
+|   |-- CampusApp.java          # Main entry point for the application
+|   |   |-- controller
+|   |       |-- InputModule.java    # Handles user input processing
+|   |       |-- RouteFinder.java    # Logic to compute optimal routes
+|   |       |-- SearchPanel.java    # Search functionality for buildings
+|   |   |-- model
+|   |       |-- CampusTree.java     # Tree-based structure to manage campus layout
+|   |       |-- TreeNode.java       # Data structure for tree nodes
+|   |   |-- view
+|   |       |-- CampusGUI.java      # Main graphical user interface
+|   |       |-- GPSModule.java      # Module for GPS tracking (to be implemented)
+|   |       |-- MapAreaModule.java  # Manages different map areas
+|   |       |-- MapPanel.java       # Panel for displaying the campus map
+|   |-- resources
+|   |   |-- amrita_map.png                  # Base map image
+|   |   |-- map_with_coordinates.png        # Map with coordinates overlay
+|   |-- lib
+|   |   |-- flatlaf-3.5.3.jar               # FlatLaf library for UI styling
 |-- README.md
 ```
 
