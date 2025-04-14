@@ -1,21 +1,22 @@
 # Campus Navigation System
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE and License:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![MIT License](https://img.shields.io/badge/license-MIT-blue)
+<!-- ALL-CONTRIBUTORS-BADGE and License:END -->
 
-### "Finding your way around a big campus can be tough, right? Well, here's our solution!"
+### 🧭 "Finding your way around a big campus can be tough, right? Well, here's our solution!"
 
-## Introduction
+## 📌 Introduction
 Our **Campus Navigation System (CNS)** is designed to simplify navigation in large campuses (Here we are demostrting using our campus as a base). By combining dynamic graph structures, efficient pathfinding algorithms(Dijkstra algorithm), and an interactive UI, our solution helps students, faculty, and visitors find their way in the campus easily.
 
-## Key Features
+## 🚀 Key Features
 - **Graph-Based Modeling:** Buildings are nodes, and pathways are edges.
 - **Shortest Path Algorithm:** Utilizes **Dijkstra's Algorithm** for optimal route calculation.
 - **Dynamic Graph Updates:** Real-time addition or removal of buildings and pathways can be done by the admin.
 - **Interactive Web UI:** Developed using **HTML**, **CSS** and basic **JAVASCRIPT** for a seamless experience.
 - **Future Enhancements:** Plans for GPS integration, AI-based route optimization, better web interface using **FLASK** and **REACT** and a mobile app using **Flutter**.
 
-## Installation
+## 🛠️ Installation
 Follow these steps to get the CNS up and running:
 1. Clone the repository:
    ```bash
@@ -43,12 +44,12 @@ Follow these steps to get the CNS up and running:
 |-- README.md
 ```
 
-## Usage
+## 🎮 Usage
 1. **Search for Locations:** Enter your starting and ending points to view the shortest path.
 2. **View Dynamic Changes:** The system can dynamically adapt to newly added or removed buildings.
 3. **Interactive Map:** The visual interface allows you to explore campus layouts efficiently.
 
-## Future Plans
+## 🔮 Future Plans
 ✅ **GPS Integration** — Real-time location updates.<br>
 ✅ **AI-Based Route Optimization** — Intelligent path adjustments based on congestion.<br>
 ✅ Better web interface using **FLASK** and **REACT**.<br>
@@ -57,10 +58,7 @@ Follow these steps to get the CNS up and running:
 ## ⚖️ License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-We look forward to enhancing campus navigation with this efficient and user-friendly solution. Feel free to contribute and share your feedback!
-
-
-## Contributors ✨
+## 👥 Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -82,4 +80,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.<br> 
+
+We look forward to enhancing campus navigation with this efficient and user-friendly solution. Feel free to contribute and share your feedback!
